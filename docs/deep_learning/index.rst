@@ -11,4 +11,6 @@ Deep Learning
    image_classification/index
    object_detection/index
    action_classification/index
+   audio_events/index
+   
    
